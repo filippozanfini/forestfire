@@ -9,4 +9,4 @@ Forest Fire is defined by four rules which are executed simultaneously:
 4. An empty space fills with a tree with probability *p*.
 
 
-![Forest Fire Demo](demo/forestfire.gif)
+![Forest Fire](forestfire.gif)
