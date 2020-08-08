@@ -1,5 +1,5 @@
 # Forest Fire
-Forest Fire cellular automata written in C++ with Allegro
+Forest Fire cellular automata written in C++ with Allegro5
 
 Forest Fire is defined by four rules which are executed simultaneously:
 
